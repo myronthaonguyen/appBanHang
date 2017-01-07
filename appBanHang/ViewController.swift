@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  appBanHang
-//
-//  Created by datnguyen on 12/15/16.
 
-//
 
 import UIKit
 
