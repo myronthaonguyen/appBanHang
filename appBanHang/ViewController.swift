@@ -1,10 +1,7 @@
-//
-//  ViewController.swift
-//  appBanHang
-//
-//  Created by datnguyen on 12/15/16.
-//  Copyright © 2016 datnguyen. All rights reserved.
-//
+/*
+ 
+ 
+*/
 
 import UIKit
 
